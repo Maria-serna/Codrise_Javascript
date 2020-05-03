@@ -1,0 +1,3 @@
+//This is an example of comment using javascript.
+/*Soy un comentario de varias líneas
+ escrito de otra manera*/
